@@ -1,0 +1,81 @@
+body{
+    background-color: black;
+}
+h1{
+    color: red;
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+h3{
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: green;
+}
+.heading{
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: blue;
+}
+.heading-1{
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: orange;
+}
+.heading-2{
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: goldenrod;
+}
+.heading-3{
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: gray;
+}
+.heading-4{
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: rebeccapurple;
+}
+.heading-5{
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: red;
+}
+.heading-6{
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: lawngreen;
+}
+.heading-7{
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: white;
+}
+.heading-8{
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: aqua;
+}
+.heading-9{
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: royalblue;
+}
+.heading-10{
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: goldenrod;
+}
+.heading-11{
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: palevioletred;
+}
+.heading-12{
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: peru;
+}
+.heading-13{
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: rosybrown;
+}
+p{
+    color: green;
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+p-2,p-4,p-6{
+    color: green;
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+p-3{
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+p-5,p-7{
+    color: white;
+}

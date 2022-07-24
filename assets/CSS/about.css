@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+h1{
+    color: blueviolet;
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+h2{
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: red;
+}
+p{
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: white;
+}
+img{
+    margin-left: 35%;
+}

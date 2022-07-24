@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+h1{
+    color: blue;
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+h4{
+    color: green;
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+p{
+    color: white;
+    font-family: "Century Gothic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+p:hover{
+    color: red;
+}
+hr{
+    margin-top: -22px;
+}
